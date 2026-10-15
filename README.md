@@ -68,8 +68,7 @@ The Smart PDF System is designed to simplify PDF document management through a u
 
 ### 1. Clone the Repository
 
-    git clone https://github.com/YOUR_USERNAME/Smart_PDF_System.git
-    cd Smart_PDF_System
+git clone https://github.com/Kami2628/Smart_PDF_System.git
 
 Replace `YOUR_USERNAME` with your GitHub username.
 

@@ -1,0 +1,7 @@
+streamlit
+pypdf
+PyMuPDF
+Pillow
+transformers
+torch
+sentencepiece

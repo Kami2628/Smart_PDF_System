@@ -12,18 +12,25 @@ The Smart PDF System is designed to simplify PDF document management through a u
 
 ## Features
 
-- **PDF Merger:** Merge multiple PDF files into one document.
-- **PDF Page Manager:** Preview, reorder, rotate, delete, and extract pages.
-- **PDF Splitter:** Split PDF documents into separate files.
-- **PDF Compressor:** Reduce PDF file size.
-- **PDF Converter:** Convert images to PDF and PDF pages to images.
-- **OCR:** Extract text from scanned PDF documents.
-- **AI Document Analysis:** Generate summaries of document content.
-- **Chat with PDF:** Ask questions about uploaded PDF documents.
-- **PDF Security:** Add or remove PDF passwords and check document protection.
-- **User Authentication:** Login and signup functionality.
-- **Dashboard:** Access tools and view application activity.
-- **PDF History:** Search and review recorded document operations.
+## How to Use
+
+1. Install Python 3.11 or a compatible Python version.
+2. Clone or download this repository.
+3. Create and activate a Python virtual environment.
+4. Install the required dependencies using `python -m pip install -r requirements.txt`.
+5. Install and configure Tesseract OCR for OCR functionality.
+6. Start the application using `streamlit run app.py`.
+7. Open the application in your browser.
+8. Sign up or log in, select a PDF tool, upload a document, and follow the on-screen instructions.
+
+## Future Enhancements
+
+- Improved document search and retrieval.
+- Additional document conversion formats.
+- Enhanced authentication and access control.
+- Cloud storage integration.
+- Automated testing and deployment.
+- Improved AI response accuracy and performance.
 
 ## Technologies Used
 

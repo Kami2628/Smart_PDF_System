@@ -1,4 +1,8 @@
 # Smart PDF Document Management & AI Processing System
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red?logo=streamlit&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Powered-purple)
+![PDF](https://img.shields.io/badge/PDF-Management-green)
 
 A professional Python-based application for managing, processing, securing, and analyzing PDF documents using Artificial Intelligence.
 
